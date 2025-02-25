@@ -172,3 +172,5 @@ cython_debug/
 
 #user added
 tests/files/
+temp/
+*_summary.*
